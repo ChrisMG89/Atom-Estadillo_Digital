@@ -1,0 +1,3 @@
+Empresa;Trabajo;Fecha;Piloto;Equipo_de_vuelo;Pitch;Hora_de_inicio;Hora_final;PB;Vuelo;Desplazado;Vel_vuelo;Alt_vuelo;Vel_de_aire;Temp_aire;Nubes;Radiacion;Tiempo_vuelo;Dist_Recorrida;Set_Bat_1;Set_Bat_2;Set_Bat_3;Volt_inicial;Volt_final;GB1/;GB2/;Anotaciones;Termica;RGB;Cali_Ini;Cali_Final;Tipologia;Vuelo_abortado
+Ingeteam;San Pedro III;2022:03:17;Daniel Ignous;DJI M300;7;12:21:04;12:21:51;1;1;2 E;3.5;30;De 10 a 20;20-25;2;>600;;;A;;;48;;;;Prueba 01;1;1;0;0;Seguidores N-S;0
+Ingeteam;San Pedro III;2022:03:17;Daniel Ignous;DJI M300;7;12:23:15;12:23:16;2;2;2 E;3.5;30;De 10 a 20;20-25;2;>600;;;B;;;49;;;;;1;1;0;0;Seguidores N-S;0

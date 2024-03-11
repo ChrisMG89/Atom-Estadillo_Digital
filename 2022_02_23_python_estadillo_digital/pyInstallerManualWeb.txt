@@ -1,0 +1,5 @@
+Enlace web al manual de pyinstaller
+https://pyinstaller.readthedocs.io/en/stable/
+
+Enlace web using PYInstaller
+https://pyinstaller.readthedocs.io/en/stable/usage.html#options

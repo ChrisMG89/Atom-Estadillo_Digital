@@ -1,4 +1,18 @@
 # atom-estadillo
+
+El **estadillo digital** es la aplicación de Atom que se utiliza para guardar información sobre los vuelos realizados durante inspecciones. Cada vez que se completa un vuelo, se añade una nueva línea al estadillo del día en curso. Este estadillo es un archivo .csv que posteriormente facilita el análisis de los vuelos.
+
+La aplicación puede ser utilizada tanto internamente por los pilotos de Aerotools como por personas externas a la empresa que sean subcontratadas para realizar vuelos.
+
+![Atom Logo](atom1.png)
+
+## Estructura del Proyecto
+
+
+
+
+
+# atom-estadillo
 El estadillo digital es la aplicación de atom que se utiliza para guardar información sobre los vuelos realizados cuando se hace una inspección. Cada vez que se realiza un vuelo se añade una nueva linea al estadillo del día en curso. Este estadillo es un archivo .csv el cual se puede emplear posteriormente para facilitar el análisis de los vuelos.
 
 La aplicación puede ser utilizada internamente por los pilotos de Aerotools o por personas ajenas a la empresa a las que se subcontrata la realización de vuelos.
